@@ -164,3 +164,4 @@ hotfix-art: 2024-05-19
 hotfix-art: 2024-05-26
 hotfix-art: 2024-06-09
 hotfix-art: 2024-06-10
+hotfix-art: 2024-06-11
