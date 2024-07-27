@@ -178,3 +178,4 @@ hotfix-art: 2024-07-03
 hotfix-art: 2024-07-07
 hotfix-art: 2024-07-10
 hotfix-art: 2024-07-21
+hotfix-art: 2024-07-27
