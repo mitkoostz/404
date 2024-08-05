@@ -182,3 +182,4 @@ hotfix-art: 2024-07-27
 hotfix-art: 2024-07-28
 hotfix-art: 2024-08-03
 hotfix-art: 2024-08-04
+hotfix-art: 2024-08-05
