@@ -190,3 +190,4 @@ hotfix-art: 2024-08-09
 hotfix-art: 2024-08-10
 hotfix-art: 2024-08-11
 hotfix-art: 2024-08-17
+hotfix-art: 2024-08-18
