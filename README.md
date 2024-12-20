@@ -1203,3 +1203,4 @@ hotfix-spike: 2024-12-20 #997
 hotfix-spike: 2024-12-20 #998
 hotfix-spike: 2024-12-20 #999
 hotfix-spike: 2024-12-20 #1000
+That was the production hotfix day.
