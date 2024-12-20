@@ -1075,3 +1075,4 @@ hotfix-spike: 2024-12-20 #869
 hotfix-spike: 2024-12-20 #870
 hotfix-spike: 2024-12-20 #871
 hotfix-spike: 2024-12-20 #872
+hotfix-spike: 2024-12-20 #873
