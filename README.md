@@ -204,3 +204,4 @@ hotfix-art: 2024-09-27
 hotfix-art: 2024-09-29
 hotfix-art: 2024-10-05
 hotfix-spike: 2024-12-20 #1
+hotfix-spike: 2024-12-20 #2
