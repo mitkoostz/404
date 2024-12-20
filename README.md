@@ -808,3 +808,4 @@ hotfix-spike: 2024-12-20 #602
 hotfix-spike: 2024-12-20 #603
 hotfix-spike: 2024-12-20 #604
 hotfix-spike: 2024-12-20 #605
+hotfix-spike: 2024-12-20 #606
