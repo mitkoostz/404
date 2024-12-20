@@ -681,3 +681,4 @@ hotfix-spike: 2024-12-20 #475
 hotfix-spike: 2024-12-20 #476
 hotfix-spike: 2024-12-20 #477
 hotfix-spike: 2024-12-20 #478
+hotfix-spike: 2024-12-20 #479
